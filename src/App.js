@@ -18,6 +18,15 @@ function App() {
             guardarPresupuesto={guardarPresupuesto}
             guardarRestante={guardarRestante}
           />
+          <div className="row">
+            <div className="one-half column">
+              1
+            </div>
+
+            <div className="one-half column">
+              2
+            </div>
+          </div>
         </div>        
       </header>      
     </div>    
